@@ -1,0 +1,1 @@
+pyinstaller --clean -F --uac-admin -i ..\ICO\cleaner.ico ..\main.py
